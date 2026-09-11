@@ -1,0 +1,4 @@
+# Runtime dependencies
+requests>=2.31,<3
+
+# Dev / test (optional): pip install -r requirements.txt -r requirements-dev.txt
